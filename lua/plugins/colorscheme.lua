@@ -1,4 +1,4 @@
 return {
-  { dir = "~/.local/share/nvim/zhen" },
+  { "reksar/zhen" },
   { "LazyVim/LazyVim", opts = { colorscheme = "zhen" } },
 }
